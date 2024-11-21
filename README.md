@@ -49,6 +49,7 @@ It aims to streamline school management, class organization, and facilitate comm
 2. **Set up environment variables:**
 Create a file called .env in the backend folder. Inside it write this :
 > MONGO_URL = mongodb://127.0.0.1/school
+
 If you are using MongoDB Compass you can use this database link but if you are using MongoDB Atlas then instead of this link write your own database link.
 
 3. **Install Dependencies**
@@ -56,13 +57,38 @@ If you are using MongoDB Compass you can use this database link but if you are u
 
 > npm install
 
+> cd..
+
 > cd backend
+
 > npm install
 
 5. **Run the development servers:**
 - Start the backend server:
+> cd backend
+
 > npm start
 
 - Start the frontend server:
+> cd frontend
+
 > npm start
+
+## ADMIN LOGIN CREDENTIALS
+**email : adminVRV@gmail.com**
+
+**password: qwerty**
+
+## PROJECT IMAGES
+![Screenshot 2024-11-21 at 20-12-41 School Management System](https://github.com/user-attachments/assets/885cc471-e0e8-49a7-bab7-628bca630315)
+<hr>
+![Screenshot 2024-11-21 at 20-14-56 School Management System](https://github.com/user-attachments/assets/b0f9de4b-93f6-4ea4-a647-e3c81f825e14)
+<hr>
+![Screenshot 2024-11-21 at 20-15-16 School Management System](https://github.com/user-attachments/assets/e0942611-5ade-4445-b4bb-0a84212a3b9a)
+<hr>
+![Screenshot 2024-11-21 at 20-15-45 School Management System](https://github.com/user-attachments/assets/eaea2392-e020-4320-9262-c514fff662d2)
+<hr>
+![Screenshot 2024-11-21 at 20-16-02 School Management System](https://github.com/user-attachments/assets/640a7c10-2acf-4998-b90d-865d7deedb53)
+
+
 
